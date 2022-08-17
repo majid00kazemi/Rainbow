@@ -1,0 +1,9 @@
+Rainbow Color
+
+red
+green
+yellow
+orange
+purple
+
+bye
